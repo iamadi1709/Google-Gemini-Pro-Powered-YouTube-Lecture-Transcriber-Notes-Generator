@@ -1,4 +1,5 @@
-🚀 #Google Gemini Pro-Powered YouTube Lecture Transcriber & Notes Generator# 📚
+🚀 **Google Gemini Pro-Powered YouTube Lecture Transcriber & Notes Generator** 📚
+
 Welcome to AI Lecture Transcriber! 🌟 Tap into the power of Generative AI to transform YouTube lectures into detailed, subject-specific notes. Whether you're diving into Physics, Chemistry, Mathematics, or Data Science, our tool makes studying easier and more efficient! 🎓
 
 🛠️ Features That Set Us Apart
